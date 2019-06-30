@@ -5,3 +5,4 @@ This repo contains pipeline example specifications to be run on [Semaphore](http
 Each branch in this repo hosts `.semaphore/semaphore.yml` file for a common usecase.
 
 These examples can be used as a starting point to build your own workflow.
+
